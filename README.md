@@ -78,6 +78,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0015-3sum](https://github.com/Gautam0211/neetcode-submissions/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gautam0211/neetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/Gautam0211/neetcode-submissions/tree/master/0704-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
@@ -91,4 +92,5 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gautam0211/neetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/Gautam0211/neetcode-submissions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
