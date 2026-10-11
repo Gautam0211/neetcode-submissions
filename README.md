@@ -102,6 +102,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0374-guess-number-higher-or-lower](https://github.com/Gautam0211/neetcode-submissions/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Gautam0211/neetcode-submissions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Gautam0211/neetcode-submissions/tree/master/0875-koko-eating-bananas) |
+| [0981-time-based-key-value-store](https://github.com/Gautam0211/neetcode-submissions/tree/master/0981-time-based-key-value-store) |
 ## Interactive
 |  |
 | ------- |
@@ -110,4 +111,16 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Gautam0211/neetcode-submissions/tree/master/0074-search-a-2d-matrix) |
+## Hash Table
+|  |
+| ------- |
+| [0981-time-based-key-value-store](https://github.com/Gautam0211/neetcode-submissions/tree/master/0981-time-based-key-value-store) |
+## String
+|  |
+| ------- |
+| [0981-time-based-key-value-store](https://github.com/Gautam0211/neetcode-submissions/tree/master/0981-time-based-key-value-store) |
+## Design
+|  |
+| ------- |
+| [0981-time-based-key-value-store](https://github.com/Gautam0211/neetcode-submissions/tree/master/0981-time-based-key-value-store) |
 <!---LeetCode Topics End-->
