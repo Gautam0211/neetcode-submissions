@@ -82,6 +82,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gautam0211/neetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Gautam0211/neetcode-submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gautam0211/neetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0219-contains-duplicate-ii](https://github.com/Gautam0211/neetcode-submissions/tree/master/0219-contains-duplicate-ii) |
 | [0704-binary-search](https://github.com/Gautam0211/neetcode-submissions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Gautam0211/neetcode-submissions/tree/master/0875-koko-eating-bananas) |
 ## Two Pointers
@@ -115,6 +116,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Hash Table
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Gautam0211/neetcode-submissions/tree/master/0219-contains-duplicate-ii) |
 | [0981-time-based-key-value-store](https://github.com/Gautam0211/neetcode-submissions/tree/master/0981-time-based-key-value-store) |
 ## String
 |  |
@@ -128,4 +130,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gautam0211/neetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Gautam0211/neetcode-submissions/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
