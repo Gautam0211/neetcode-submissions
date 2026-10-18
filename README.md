@@ -116,11 +116,13 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Gautam0211/neetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Gautam0211/neetcode-submissions/tree/master/0219-contains-duplicate-ii) |
 | [0981-time-based-key-value-store](https://github.com/Gautam0211/neetcode-submissions/tree/master/0981-time-based-key-value-store) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Gautam0211/neetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0981-time-based-key-value-store](https://github.com/Gautam0211/neetcode-submissions/tree/master/0981-time-based-key-value-store) |
 ## Design
 |  |
@@ -133,5 +135,6 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Gautam0211/neetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/Gautam0211/neetcode-submissions/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
