@@ -82,6 +82,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gautam0211/neetcode-submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Gautam0211/neetcode-submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gautam0211/neetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Gautam0211/neetcode-submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Gautam0211/neetcode-submissions/tree/master/0219-contains-duplicate-ii) |
 | [0704-binary-search](https://github.com/Gautam0211/neetcode-submissions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Gautam0211/neetcode-submissions/tree/master/0875-koko-eating-bananas) |
@@ -102,6 +103,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0074-search-a-2d-matrix](https://github.com/Gautam0211/neetcode-submissions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Gautam0211/neetcode-submissions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gautam0211/neetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Gautam0211/neetcode-submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0374-guess-number-higher-or-lower](https://github.com/Gautam0211/neetcode-submissions/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Gautam0211/neetcode-submissions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Gautam0211/neetcode-submissions/tree/master/0875-koko-eating-bananas) |
@@ -141,7 +143,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gautam0211/neetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Gautam0211/neetcode-submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Gautam0211/neetcode-submissions/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Gautam0211/neetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Gautam0211/neetcode-submissions/tree/master/0567-permutation-in-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Gautam0211/neetcode-submissions/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
