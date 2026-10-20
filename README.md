@@ -84,6 +84,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gautam0211/neetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Gautam0211/neetcode-submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Gautam0211/neetcode-submissions/tree/master/0219-contains-duplicate-ii) |
+| [0658-find-k-closest-elements](https://github.com/Gautam0211/neetcode-submissions/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Gautam0211/neetcode-submissions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Gautam0211/neetcode-submissions/tree/master/0875-koko-eating-bananas) |
 ## Two Pointers
@@ -92,10 +93,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0015-3sum](https://github.com/Gautam0211/neetcode-submissions/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gautam0211/neetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0567-permutation-in-string](https://github.com/Gautam0211/neetcode-submissions/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/Gautam0211/neetcode-submissions/tree/master/0658-find-k-closest-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Gautam0211/neetcode-submissions/tree/master/0015-3sum) |
+| [0658-find-k-closest-elements](https://github.com/Gautam0211/neetcode-submissions/tree/master/0658-find-k-closest-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -105,6 +108,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gautam0211/neetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Gautam0211/neetcode-submissions/tree/master/0209-minimum-size-subarray-sum) |
 | [0374-guess-number-higher-or-lower](https://github.com/Gautam0211/neetcode-submissions/tree/master/0374-guess-number-higher-or-lower) |
+| [0658-find-k-closest-elements](https://github.com/Gautam0211/neetcode-submissions/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Gautam0211/neetcode-submissions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Gautam0211/neetcode-submissions/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/Gautam0211/neetcode-submissions/tree/master/0981-time-based-key-value-store) |
@@ -147,8 +151,13 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0219-contains-duplicate-ii](https://github.com/Gautam0211/neetcode-submissions/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Gautam0211/neetcode-submissions/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/Gautam0211/neetcode-submissions/tree/master/0567-permutation-in-string) |
+| [0658-find-k-closest-elements](https://github.com/Gautam0211/neetcode-submissions/tree/master/0658-find-k-closest-elements) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Gautam0211/neetcode-submissions/tree/master/0209-minimum-size-subarray-sum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/Gautam0211/neetcode-submissions/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
