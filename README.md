@@ -94,6 +94,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Gautam0211/neetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0567-permutation-in-string](https://github.com/Gautam0211/neetcode-submissions/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/Gautam0211/neetcode-submissions/tree/master/0658-find-k-closest-elements) |
+| [0876-middle-of-the-linked-list](https://github.com/Gautam0211/neetcode-submissions/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -164,6 +165,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Gautam0211/neetcode-submissions/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/Gautam0211/neetcode-submissions/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
