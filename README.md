@@ -160,4 +160,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/Gautam0211/neetcode-submissions/tree/master/0658-find-k-closest-elements) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Gautam0211/neetcode-submissions/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Gautam0211/neetcode-submissions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
