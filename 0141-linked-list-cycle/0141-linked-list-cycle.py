@@ -18,4 +18,3 @@ class Solution:
             # fast=fast.next.next
             if fast==slow:
                 return True
-        return False        
